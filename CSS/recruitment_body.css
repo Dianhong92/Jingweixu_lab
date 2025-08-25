@@ -81,9 +81,12 @@ p {
 }
 
 .recruitment-westlake-jingwei-address {
+    overflow-wrap: break-word;
     color:rgb(2, 77, 111);
     cursor:pointer;
     text-decoration: underline;
+    word-break: break-all;
+    overflow-wrap: break-word;
 
 }
 
